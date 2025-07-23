@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PaoloLuca\\Documents\\source\\GitHub\\_Develop\\MyRenderApi\\MyRenderApi.csproj": {}
+    "C:\\Users\\PaoloLuca\\Documents\\source\\GitHub\\_Develop\\_render\\MyRenderApi\\MyRenderApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PaoloLuca\\Documents\\source\\GitHub\\_Develop\\MyRenderApi\\MyRenderApi.csproj": {
+    "C:\\Users\\PaoloLuca\\Documents\\source\\GitHub\\_Develop\\_render\\MyRenderApi\\MyRenderApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PaoloLuca\\Documents\\source\\GitHub\\_Develop\\MyRenderApi\\MyRenderApi.csproj",
+        "projectUniqueName": "C:\\Users\\PaoloLuca\\Documents\\source\\GitHub\\_Develop\\_render\\MyRenderApi\\MyRenderApi.csproj",
         "projectName": "MyRenderApi",
-        "projectPath": "C:\\Users\\PaoloLuca\\Documents\\source\\GitHub\\_Develop\\MyRenderApi\\MyRenderApi.csproj",
+        "projectPath": "C:\\Users\\PaoloLuca\\Documents\\source\\GitHub\\_Develop\\_render\\MyRenderApi\\MyRenderApi.csproj",
         "packagesPath": "C:\\Users\\PaoloLuca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PaoloLuca\\Documents\\source\\GitHub\\_Develop\\MyRenderApi\\obj\\",
+        "outputPath": "C:\\Users\\PaoloLuca\\Documents\\source\\GitHub\\_Develop\\_render\\MyRenderApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PaoloLuca\\AppData\\Roaming\\NuGet\\NuGet.Config",
